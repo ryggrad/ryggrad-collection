@@ -1,6 +1,6 @@
 {
   "name": "ryggrad-collection",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A class for managing a collection of objects",
   "main": "./lib/ryggrad-collection",
   "scripts": {
