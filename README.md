@@ -1,7 +1,7 @@
 # ryggrad-collection [![Build Status](https://travis-ci.org/ryggrad/ryggrad-collection.svg?branch=master)](https://travis-ci.org/ryggrad/ryggrad-collection)
 
 A class for managing collections of objects. 
-Supports all the [underscore Collection methods](http://underscorejs.org/#collections) and quakes like an Array. 
+Supports all the [underscore Collection methods](http://underscorejs.org/#collections) and quacks like an Array. 
 It is used as the basis for [ryggrad-model](https://github.com/ryggrad/ryggrad-model)
 
 ## Installation and Usage
